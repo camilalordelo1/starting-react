@@ -1,0 +1,10 @@
+.containerMaster {
+    padding: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 10px;
+}
+
+.jumbotron {
+    background-color: rgb(126, 14, 255);
+    color: white;
+}
